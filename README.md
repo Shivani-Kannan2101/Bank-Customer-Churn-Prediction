@@ -41,7 +41,8 @@ European Bank churn dataset 10,000 customers records with features including cre
 Python, Pandas, Scikit-learn, SHAP, Streamlit, Matplotlib
 
 ## Skills used
-Excel — used only for manual EDA (pivot tables, churn rate breakdowns) in the early steps. Not used for any modeling.
+Excel — used only for manual EDA (pivot tables, churn rate breakdowns) in the early steps.
+
 Python — used for everything after that:
   Pandas/NumPy — data cleaning, feature engineering
   Scikit-learn — the actual machine learning: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting (all classic supervised ML algorithms)
