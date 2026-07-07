@@ -41,7 +41,7 @@ European Bank churn dataset 10,000 customers records with features including cre
 Python, Pandas, Scikit-learn, SHAP, Streamlit, Matplotlib
 
 ## Skills used
-Excel — used only for manual EDA (pivot tables, churn rate breakdowns) in the early steps.
+Excel — used for manual EDA (pivot tables, churn rate breakdowns) in the early steps.
 
 Python — used for everything after that:
   Pandas/NumPy — data cleaning, feature engineering
@@ -52,7 +52,8 @@ Python — used for everything after that:
   Streamlit — turning the trained model into a web app
 
 ## Files
-- `European_Bank.csv` — dataset
+- `European_Bank.csv` — raw dataset of bank customers
+- `European_Bank_Analysis.csv` — Pivot charts and Tables - Manual churn driver analysis
 - `Customer_Churn_Analysis.ipynb` — Exploratory Data Analysis,Preprocessing,Feature Engineering,Model Training, Evaluation,SHAP Explainability
 - `requirements.txt` — dependencies
 - `app.py` — Streamlit dashboard
