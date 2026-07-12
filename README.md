@@ -1,7 +1,7 @@
 # Bank Customer Churn Prediction & Risk Scoring
 A machine learning project that predicts customer churn risk for a European bank, with a live interactive dashboard for risk scoring and scenario simulation.
 
-🔗 **Live App**: [https://your-app-name.streamlit.app  ](https://bank-customer-churn-prediction-9uutkhtwhnpvzxtuz22bqv.streamlit.app/)
+🔗 **Live App**: https://bank-customer-churn-prediction-9uutkhtwhnpvzxtuz22bqv.streamlit.app/
 
 ## Overview
 Banks lose revenue when customers churn — but by the time churn happens, it's too late  to act. This project builds a predictive model that flags at-risk customers *before* they leave, so retention teams can intervene proactively.
